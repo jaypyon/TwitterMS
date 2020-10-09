@@ -1,0 +1,42 @@
+html {
+background-image: url(./twitter-back.png);
+}
+.titleInfo{
+    position: absolute;
+    left: 929px;
+    font-size: 50px;
+    font-weight: 600;
+    color: skyblue;
+    /* padding: 39px; */
+    border-top: solid;
+    border-top-color: #7fb8e4;
+    border-bottom: solid;
+    border-bottom-color: #7fb8e4;
+    
+    margin-top: 10px;
+}
+.intro-container{
+    position: absolute;
+    top: 245px;
+    left: 170px;
+    color: #3a9dd7;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+.twitterInfo {
+    float: left;
+    /* padding: 10px; */
+    overflow-y: scroll;
+    width: 276px;
+    height: 330px;
+    /* margin-left: 22px; */
+    /* margin-bottom: 22px; */
+    background-color: darkgrey;
+}
+.twitter-container{
+    POSITION: ABSOLUTE;
+    WIDTH: 1400px;
+    left: 465;
+    top: 240px;
+}
